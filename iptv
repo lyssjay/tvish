@@ -17,12 +17,19 @@ http://0nelive.ddns.net:13292/ceres2/aandecn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 http://stream.tvtap.live:8081/live/mtvrocks.stream/chunks.m3u8?nimblesessionid=5904046713&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDEwOjIxOjE4IFBNJmhhc2hfdmFsdWU9aEdLZ3E5WVNtRnJIRDMrdXBHUlFrZz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1, VH1
 http://stream.tvtap.live:8081/live/us-vh1.stream/chunks.m3u8?nimblesessionid=5904165765&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDEwOjIyOjI1IFBNJmhhc2hfdmFsdWU9d2h0TmtXYVZzUm1vdzk3dzIrSmpCQT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1, DAZN
-http://stream.tvtap.live:8081/live/de-dazn1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDEwOjIzOjQyIFBNJmhhc2hfdmFsdWU9aXZFZHJ0MlUxalNvS1UzUnlJRzJHdz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1, DAZN 2
-http://stream.tvtap.live:8081/live/de-dazn2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDEwOjI0OjQxIFBNJmhhc2hfdmFsdWU9Y0VGSmUyU0wyektYM3U5R2xtTGVOQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1, MLB NETWORK
-http://stream.tvtap.live:8081/live/mlb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDEwOjI1OjMzIFBNJmhhc2hfdmFsdWU9cnhNMGEyL0dqOFhObEtpUm1LZWtNUT09JnZhbGlkbWludXRlcz0yMA==
+http://stream.tvtap.live:8081/live/mlb.stream/chunks.m3u8?nimblesessionid=5907815667&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDEwOjU2OjUyIFBNJmhhc2hfdmFsdWU9TGEwQWs1dzI5TlZ2Q3RYQVMrUWdSUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1, NFL NETWORK
-http://stream.tvtap.live:8081/live/nfl.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDEwOjI3OjEyIFBNJmhhc2hfdmFsdWU9ZjdNMVYxeGZaUE5yUVFBZy9vTDR5dz09JnZhbGlkbWludXRlcz0yMA==
-
+http://stream.tvtap.live:8081/live/nfl.stream/chunks.m3u8?nimblesessionid=5908222933&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDExOjAxOjA0IFBNJmhhc2hfdmFsdWU9a2wvemRWekphUEIxUGt0ajJLUm9FUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1, COMEDY CENTRAL
+http://stream.tvtap.live:8081/live/us-comedy.stream/chunks.m3u8?nimblesessionid=5908405708&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDExOjAzOjAyIFBNJmhhc2hfdmFsdWU9c1BwVFpRaWI2alptZmxhOFVNQmtCUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1, FOX
+http://stream.tvtap.live:8081/live/us-fox.stream/chunks.m3u8?nimblesessionid=5908488878&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDExOjAzOjU3IFBNJmhhc2hfdmFsdWU9dDVST2l3ckZTd21YSGVkeWgxemtoZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1, LIFETIME
+http://stream.tvtap.live:8081/live/us-lifetime.stream/chunks.m3u8?nimblesessionid=5908575658&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDExOjA0OjUzIFBNJmhhc2hfdmFsdWU9d0ZsM0w1eElGVENuQXBuektRZUJKUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1, PARAMOUNT NETWORK
+http://stream.tvtap.live:8081/live/us-paramount.stream/chunks.m3u8?nimblesessionid=5908623184&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDExOjA1OjIzIFBNJmhhc2hfdmFsdWU9dGsrVXNiZWh1RmQ0Skp1RG95bXlJUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1, PBS
+http://stream.tvtap.live:8081/live/pbs9.stream/chunks.m3u8?nimblesessionid=5908677167&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDExOjA1OjU2IFBNJmhhc2hfdmFsdWU9eHFHbHh0VlNDa0dmU1ZUcm96bVlWQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1, SYFY
+http://stream.tvtap.live:8081/live/us-syfy.stream/chunks.m3u8?nimblesessionid=5908745670&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDE5IDExOjA2OjM2IFBNJmhhc2hfdmFsdWU9K2p1K2lJNUhMQ1JwM0RueTZRSEY2UT09JnZhbGlkbWludXRlcz0yMA==
